@@ -1,0 +1,7 @@
+# eagle prefs
+eagle.epf
+
+# backups
+*.b\#?
+*.s\#?
+

@@ -1,0 +1,5 @@
+<language en>
+<b>SPDIF Optical to Analog Converter</b>
+<p>Converts uncompressed PCM audio stream from an OPTICAL OUT connection into analog audio that can be connected to a LINE IN of some device</p>
+<p>Does NOT support decoding 5.1 audio streams. Not possible unless you program the decoder logic yourself, or you have a license for the IC
+</language en>
